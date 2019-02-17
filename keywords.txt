@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For I2CMatrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+I2CMatrix	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getFWVersion	KEYWORD2
+getNumDisplays	KEYWORD2
+getEnabled	KEYWORD2
+getRCMode	KEYWORD2
+writeDisplay	KEYWORD2
+setBrightness	KEYWORD2
+writeColumn	KEYWORD2
+writeRow	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RESET        LITERAL1
+CONNECTED    LITERAL1
+ENABLE       LITERAL1
+BRIGHTNESS   LITERAL1
+MODE         LITERAL1
+UNIT         LITERAL1  
+BYTE1        LITERAL1  
+BYTE2        LITERAL1  
+BYTE3        LITERAL1  
+BYTE4        LITERAL1  
+BYTE5        LITERAL1  
+BYTE6        LITERAL1  
+BYTE7        LITERAL1  
+GETVERSION   LITERAL1  
+
